@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, useLoaderData } from "react-router";
 import PopularSection from "../../Components/PopularSection/PopularSection";
 
