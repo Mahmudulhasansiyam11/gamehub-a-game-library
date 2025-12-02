@@ -59,7 +59,7 @@ const HomeLayout = () => {
       </section>
 
       {/* Newsletter Section */}
-      <div className="w-11/12 mx-auto mt-10 sm:mt-12">
+      <div className="w-11/12 mx-auto mt-10 mb-10 sm:mt-12">
         <NewsletterSection />
       </div>
     </div>

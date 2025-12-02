@@ -21,7 +21,7 @@ const Root = () => {
       {state == "loading" ? <Loading></Loading> : <Outlet></Outlet>}
       {/* Footer */}
 
-      <footer className="bg-[#031637] mt-10 text-white py-10">
+      <footer className="bg-[#031637] text-white py-10">
         <Footer></Footer>
       </footer>
 
