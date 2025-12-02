@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown's Battlegrounds: PUBG",
+    "coverPhoto": "https://i.ibb.co.com/SFSMHkp/pubg-imgupscaler-ai-General-8-K.jpg",
+    "category": "FPS",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+    "description": "PUBG Mobile is an intense battle royale game where players are dropped onto an island and must scavenge for weapons, armor, and supplies while competing against others to be the last person or squad standing. The game features realistic graphics, dynamic weather, and multiple maps that enhance strategic gameplay. Players must use teamwork, survival tactics, and quick reflexes to outsmart opponents in fast-paced battles. With a variety of modes, customizable characters, and regular seasonal updates, PUBG Mobile continues to engage millions worldwide. Its blend of strategy, shooting mechanics, and survival elements creates a thrilling gaming experience where every match feels fresh and unpredictable.",
+    "ratings": "4.5",
+    "developer": "Krafton",
+    "popular": true
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.ibb.co.com/cc7kjK1B/call-of-duty-imgupscaler-ai-General-2-K.jpg",
+    "category": "FPS",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+    "description": "Call of Duty: Mobile brings the legendary first-person shooter franchise to mobile devices, offering a rich gaming experience with multiple modes such as Multiplayer, Battle Royale, and Zombies. Players can choose from iconic maps and characters, customize weapons, and engage in fast-paced team battles that test strategy and skill. The game includes ranked matchmaking, seasonal rewards, and stunning graphics optimized for mobile performance. Whether competing solo or with friends, players engage in adrenaline-pumping combat scenarios that mirror the intensity of console gameplay. Call of Duty: Mobile blends nostalgic content with new challenges, making it an engaging experience for both longtime fans and newcomers.",
+    "ratings": "4.6",
+    "developer": "Activision",
+    "popular": true
+  },
+  {
+    "id": "3",
+    "title": "Fortnite",
+    "coverPhoto": "https://i.ibb.co.com/h1WTS3BB/fortnite-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.fortnite.com/download",
+    "description": "Fortnite is a vibrant and fast-paced battle royale game where 100 players drop onto a constantly changing island and compete to be the last one standing. The game is known for its unique building mechanics, allowing players to construct walls, ramps, and structures for defense or strategic advantage. Featuring colorful graphics, creative events, crossovers with popular franchises, and regular updates, Fortnite delivers an ever-evolving experience that encourages creativity and competitive play. Players can team up with friends, explore imaginative maps, and participate in limited-time game modes. With its blend of action, creativity, and social elements, Fortnite remains a global gaming phenomenon.",
+    "ratings": "4.7",
+    "developer": "Epic Games",
+    "popular": true
+  },
+  {
+    "id": "4",
+    "title": "Apex Legends Mobile",
+    "coverPhoto": "https://i.ibb.co.com/ksTRGj12/apex-legends-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://apex-legends-mobile.en.softonic.com/android/download",
+    "description": "Apex Legends Mobile is a hero-based battle royale game where players choose from unique characters, each with special abilities that influence team strategies and gameplay dynamics. Set in a futuristic sci-fi world, players engage in fast-paced combat across detailed landscapes, working together to defeat enemy squads. The game emphasizes teamwork, communication, and tactical positioning, making every match both strategic and thrilling. Apex Legends Mobile features stunning visuals, fluid mechanics, and diverse game modes that keep players engaged. With regular updates, new legends, and seasonal events, it offers a constantly evolving battlefield where skill, timing, and team coordination determine victory.",
+    "ratings": "4.4",
+    "developer": "Respawn Entertainment",
+    "popular": false
+  },
+  {
+    "id": "5",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.ibb.co.com/8Dw6GdDC/Genshin-Impact-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "RPG",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+    "description": "Genshin Impact is an immersive open-world action RPG that transports players to the magical land of Teyvat, where they embark on an epic journey to search for their lost sibling while uncovering the world’s mysteries. Players can explore breathtaking landscapes, unlock elemental abilities, and battle powerful enemies using a dynamic combat system that encourages strategic use of character skills. The game offers rich storytelling, stunning anime-inspired graphics, and a vast roster of characters with unique personalities and powers. With regular updates introducing new regions, quests, and events, Genshin Impact delivers an ever-expanding adventure that keeps players engaged and emotionally invested.",
+    "ratings": "4.8",
+    "developer": "HoYoverse",
+    "popular": true
+  },
+  {
+    "id": "6",
+    "title": "Free Fire",
+    "coverPhoto": "https://i.ibb.co.com/GQJx5QfQ/free-fire-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Battle Royale",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+    "description": "Free Fire is a fast-paced mobile battle royale game where fifty players land on a remote island and battle to be the last survivor. Matches are short and intense, making it perfect for quick gameplay sessions. Players must collect weapons, armor, and resources while strategically using the terrain to gain an advantage. The game features unique characters with special abilities, customizable loadouts, vehicles for quick movement, and various game modes that keep the experience exciting. With smooth controls, regular events, and global competitions, Free Fire offers an action-packed survival experience that keeps players engaged with its fast gameplay and strategic depth.",
+    "ratings": "4.3",
+    "developer": "Garena",
+    "popular": true
+  },
+  {
+    "id": "7",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.ibb.co.com/wG6n7WQ/clashofclans-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Strategy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
+    "description": "Clash of Clans is a highly strategic mobile game where players build and upgrade their village, train troops, and battle against others to earn resources and trophies. The game emphasizes teamwork through clan systems, where members donate troops and participate in epic clan wars. With a variety of defenses, spells, and hero units, players must develop tactical attack strategies to outsmart opponents. Regular updates introduce new features, troops, and challenges, ensuring the gameplay remains fresh. Its combination of base-building, resource management, and multiplayer battles provides a deeply engaging experience that rewards both creativity and planning in pursuit of ultimate domination.",
+    "ratings": "4.6",
+    "developer": "Supercell",
+    "popular": true
+  },
+  {
+    "id": "8",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.ibb.co.com/rNQfy9Y/minecraft-imgupscaler-ai-General-2-K.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en",
+    "description": "Minecraft is a sandbox game that offers players complete creative freedom to explore, build, and survive in a block-based world that is procedurally generated. Whether playing in survival mode, where resource management and combat are essential, or creative mode, which allows unlimited building potential, Minecraft provides limitless opportunities for creativity and adventure. Players can craft tools, construct massive structures, and explore caves filled with valuable resources. Multiplayer mode enables collaboration or competition with others. The game’s ever-expanding community supports mods, custom maps, and continual updates, keeping the experience fresh and engaging for players of all ages who enjoy creativity and discovery.",
+    "ratings": "4.8",
+    "developer": "Mojang Studios",
+    "popular": true
+  },
+  {
+    "id": "9",
+    "title": "Among Us",
+    "coverPhoto": "https://i.ibb.co.com/r2CrmD5q/amoung-us-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Party",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+    "description": "Among Us is a multiplayer social deduction game where players work together aboard a spaceship to complete tasks while trying to uncover the impostors hiding among the crew. Impostors attempt to sabotage the mission and eliminate players without being caught. The game focuses on communication, strategy, and deception as players discuss suspicions and vote to eject potential impostors. With its simple controls, cross-platform multiplayer support, and unpredictable gameplay, every match offers a unique and exciting challenge. Regular updates, new maps, roles, and customizable options keep the community active and engaged, making Among Us a fun experience of trust, betrayal, and teamwork.",
+    "ratings": "4.2",
+    "developer": "Innersloth",
+    "popular": false
+  },
+  {
+    "id": "10",
+    "title": "Subway Surfers",
+    "coverPhoto": "https://i.ibb.co.com/gLSRLp6B/subway-surfears-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Arcade",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+    "description": "Subway Surfers is an endless runner game where players take on the role of a young graffiti artist running through subway tracks to escape a grumpy inspector and his dog. Players must dodge trains, leap over barriers, and collect coins while racing at high speed. The game features vibrant graphics, smooth controls, and power-ups like hoverboards and jetpacks that enhance gameplay. With global tour updates introducing new cities and characters, Subway Surfers remains fresh and visually exciting. The objective is to achieve the highest score possible while unlocking rewards, outfits, and upgrades that make the experience increasingly engaging and fun over time.",
+    "ratings": "4.4",
+    "developer": "SYBO Games",
+    "popular": false
+  },
+  {
+    "id": "11",
+    "title": "Roblox",
+    "coverPhoto": "https://i.ibb.co.com/6JtPzq7Q/roblox-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Sandbox",
+    "downloadLink": "https://www.roblox.com/download",
+    "description": "Roblox is an expansive online platform where players can create, play, and share their own games using powerful development tools. It offers millions of user-generated experiences across various genres, including adventure, racing, role-playing, and simulation. Players can customize avatars, join friends in multiplayer worlds, and participate in virtual events. The creativity-driven ecosystem encourages players to become developers, earning rewards and recognition. Roblox promotes social interaction, imagination, and community building, with regular updates and themed events that keep content fresh. Whether exploring fantasy lands or building entire universes, Roblox offers limitless entertainment and creative freedom for players of all ages and interests.",
+    "ratings": "4.5",
+    "developer": "Roblox Corporation",
+    "popular": true
+  },
+  {
+    "id": "12",
+    "title": "Brawl Stars",
+    "coverPhoto": "https://i.ibb.co.com/fzy3vWH0/brawl-stars-imgupscaler-ai-General-2-K.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars",
+    "description": "Brawl Stars is a fast-paced multiplayer game where players battle in three-versus-three matches or solo modes, using characters with unique abilities called Brawlers. Each Brawler has distinct attacks and special powers, allowing for different playstyles and strategies. The game offers various modes, including Gem Grab, Showdown, Heist, and Bounty, each requiring teamwork and quick thinking to win. Players can upgrade their Brawlers, unlock new skins, and participate in seasonal events. With vibrant graphics, smooth controls, and constant updates introducing new content, Brawl Stars delivers an exciting and competitive experience that keeps players engaged in short, action-packed battles filled with fun and strategy.",
+    "ratings": "4.6",
+    "developer": "Supercell",
+    "popular": false
+  },
+  {
+    "id": "13",
+    "title": "League of Legends: Wild Rift",
+    "coverPhoto": "https://i.ibb.co.com/nNsZsL5b/League-of-Legends-Wild-Rift-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "MOBA",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift",
+    "description": "League of Legends: Wild Rift is the mobile adaptation of the popular MOBA game, offering intense five-versus-five battles where strategy, teamwork, and quick decision-making determine victory. Players choose from a roster of champions with unique abilities and roles, such as tanks, mages, and assassins. The objective is to destroy the enemy’s Nexus while defending your own. Wild Rift features optimized controls for mobile devices, stunning visuals, and balanced competitive gameplay. Regular updates bring new champions, skins, and seasonal events. Whether playing casually or in ranked matches, Wild Rift delivers a deeply strategic and rewarding experience tailored for both newcomers and seasoned players.",
+    "ratings": "4.7",
+    "developer": "Riot Games",
+    "popular": true
+  },
+  {
+    "id": "14",
+    "title": "Valorant",
+    "coverPhoto": "https://i.ibb.co.com/WpvP69Gm/Valorant-imgupscaler-ai-General-2-K.jpg",
+    "category": "FPS",
+    "downloadLink": "https://playvalorant.com/en-us/download/",
+    "description": "Valorant is a tactical first-person shooter where precise aim, strategic planning, and unique character abilities come together to create intense five-versus-five matches. Each character, known as an agent, has special abilities that enhance gameplay and allow players to develop different tactical approaches. The game emphasizes teamwork, communication, and careful coordination to secure objectives and eliminate opponents. Matches are competitive, with players buying weapons and equipment at the start of each round. Valorant’s blend of precise shooting mechanics and character-driven abilities provides a fresh and engaging experience that rewards skill and strategy. Regular updates, maps, and agents keep the game exciting and evolving.",
+    "ratings": "4.6",
+    "developer": "Riot Games",
+    "popular": true
+  },
+  {
+    "id": "15",
+    "title": "Mobile Legends: Bang Bang",
+    "coverPhoto": "https://i.ibb.co.com/yc5M4BdS/Mobile-Legends-Bang-Bang-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "MOBA",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mobile.legends",
+    "description": "Mobile Legends: Bang Bang is a popular mobile MOBA game where two teams of five players compete to destroy each other's base while defending their own. Players choose from a wide selection of heroes, each with unique skills and roles such as tank, mage, marksman, or support. Matches are fast-paced and designed for mobile gameplay, featuring real-time battles, quick matchmaking, and strategic combat. Team coordination, skill timing, and map awareness are crucial for victory. With regular updates, events, and tournaments, Mobile Legends provides a consistently engaging experience for both casual players and competitive esports fans around the world.",
+    "ratings": "4.5",
+    "developer": "Moonton",
+    "popular": true
+  },
+  {
+    "id": "16",
+    "title": "Temple Run 2",
+    "coverPhoto": "https://i.ibb.co.com/r2gxq8Jz/Temple-Run-2-imgupscaler-ai-v1-Fast-2-K.png",
+    "category": "Arcade",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.imangi.templerun2",
+    "description": "Temple Run 2 is an exhilarating endless runner game where players guide their character through ancient temple pathways filled with cliffs, mines, waterfalls, and obstacles while being chased by a giant demonic monkey. Players must swipe to jump, turn, and slide to avoid danger while collecting coins and power-ups that enhance abilities. The game features vibrant environments, dynamic animations, and evolving challenges that keep gameplay exciting. With unlockable characters, special abilities, and global leaderboards, Temple Run 2 offers a thrilling and addictive experience that tests reflexes and focus. Each run is unpredictable, making it engaging for both casual players and high-score challengers.",
+    "ratings": "4.2",
+    "developer": "Imangi Studios",
+    "popular": false
+  },
+  {
+    "id": "17",
+    "title": "Dead by Daylight Mobile",
+    "coverPhoto": "https://i.ibb.co.com/Z6gcQ0Pv/upscalemedia-transformed.jpg",
+    "category": "Horror",
+    "downloadLink": "https://www.dbdmobile.com/",
+    "description": "Dead by Daylight Mobile is an asymmetric multiplayer horror game where one player takes on the role of a relentless killer, while four others become survivors attempting to escape. Survivors must repair generators, hide, and work together to avoid being captured, while the killer uses unique powers to hunt them down. The game features chilling environments, heart-pounding chases, and iconic characters inspired by horror franchises. Each match delivers suspenseful gameplay based on stealth, strategy, and teamwork. With regular updates, new killers, survivors, and seasonal events, Dead by Daylight Mobile offers a deeply immersive and terrifying experience where every decision can determine life or death.",
+    "ratings": "4.3",
+    "developer": "Behaviour Interactive",
+    "popular": false
+  },
+  {
+    "id": "18",
+    "title": "Pokemon Unite",
+    "coverPhoto": "https://i.ibb.co.com/8nytPqrr/upscalemedia-transformed1.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite",
+    "description": "Pokémon Unite is a strategic team-based MOBA game where players compete in five-versus-five battles using their favorite Pokémon. Each Pokémon has unique moves and roles such as attacker, defender, speedster, or support. Players earn points by defeating wild Pokémon and scoring goals in the opposing team’s zone. As the match progresses, Pokémon level up and evolve, unlocking powerful abilities. The game emphasizes teamwork, map awareness, and strategic coordination to secure victory. Featuring ranked modes, customizable battle items, and frequent updates, Pokémon Unite offers a competitive yet accessible experience that brings the excitement of Pokémon battles to a fast-paced multiplayer arena setting.",
+    "ratings": "4.4",
+    "developer": "TiMi Studio Group",
+    "popular": true
+  },
+  {
+    "id": "19",
+    "title": "Stumble Guys",
+    "coverPhoto": "https://i.ibb.co.com/27HDZ5dg/upscalemedia-transformed2.jpg",
+    "category": "Party",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+    "description": "Stumble Guys is a massively multiplayer party knockout game where up to 32 players compete in chaotic obstacle-filled rounds. Players must run, jump, and dash through colorful and unpredictable courses filled with traps, moving platforms, and hilarious physics. The objective is to survive each round and be the last one standing. With fun skins, emotes, and regular events, the game offers a playful and competitive experience. Each match is fast-paced, unpredictable, and full of laughter, making it perfect for casual players and friends. Stumble Guys combines party game elements with battle royale excitement, delivering endless fun and replayability through ever-changing challenges.",
+    "ratings": "4.1",
+    "developer": "Kitka Games",
+    "popular": false
+  },
+  {
+    "id": "20",
+    "title": "T3 Arena",
+    "coverPhoto": "https://i.ibb.co.com/DDNVZ5kj/T3-Arena.jpg",
+    "category": "FPS",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.xd.t3.global",
+    "description": "T3 Arena is a fast-paced hero shooter game designed for mobile devices, offering quick three-versus-three matches with unique characters known as heroes. Each hero has special abilities and weapons that create strategic depth and diverse combat styles. Players engage in various game modes that emphasize teamwork, quick reflexes, and tactical play. The game features smooth controls, dynamic environments, and regular updates introducing new heroes, skins, and events. With vibrant graphics and action-packed gameplay, T3 Arena delivers a thrilling experience where every match is intense and competitive. It is perfect for players looking for fast battles and strategic multiplayer action.",
+    "ratings": "4.3",
+    "developer": "XD Inc.",
+    "popular": false
+  }
+]

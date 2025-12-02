@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "featureName": "Developer Profiles",
+    "icon": "https://i.ibb.co.com/cXxv68VC/userIcon.jpg",
+    "description": "Learn more about your favorite developers, follow their journey, and support their next big release."
+  },
+  {
+    "id": 2,
+    "featureName": "Game Ratings & Reviews",
+    "icon": "https://i.ibb.co.com/nssZWC7X/starIcon.jpg",
+    "description": "Share your thoughts and rate games to help others discover the best indie experiences."
+  },
+  {
+    "id": 3,
+    "featureName": "One-Click Install",
+    "icon": "https://i.ibb.co.com/L3XW6wT/download-Icon.png",
+    "description": "Install games directly from GameHub with a simple, secure, and fast download process."
+  },
+  {
+    "id": 4,
+    "featureName": "Update Alerts",
+    "icon": "https://i.ibb.co.com/d08R35x9/bell-Icon1.png",
+    "description": "Stay informed with instant notifications when your favorite games release updates or new content."
+  },
+  {
+    "id": 5,
+    "featureName": "Wishlist & Favorites",
+    "icon": "https://i.ibb.co.com/s9pwhvyn/heart-Icon.png",
+    "description": "Save games you love to your personal wishlist and revisit them anytime."
+  },
+  {
+    "id": 6,
+    "featureName": "AI Game Recommendations",
+    "icon": "https://i.ibb.co.com/Y7DR0Yzp/robot-Icon.png",
+    "description": "Get personalized game suggestions based on your play style and preferences."
+  },
+  {
+    "id": 7,
+    "featureName": "Upcoming Releases",
+    "icon": "https://i.ibb.co.com/YFhkTFp0/calander-Icon.png",
+    "description": "Stay ahead of the curve with a list of soon-to-be-released indie titles."
+  },
+  {
+    "id": 8,
+    "featureName": "Player Reviews & Comments",
+    "icon": "https://i.ibb.co.com/d0k9jyFv/comment-Icon.png",
+    "description": "Join the conversation — share your feedback and read what others think about each game."
+  },
+  {
+    "id": 9,
+    "featureName": "Playtime Tracker",
+    "icon": "https://i.ibb.co.com/gMs785Pk/stopIcon.png",
+    "description": "Keep track of your gameplay hours and see your all-time favorites at a glance."
+  },
+  {
+    "id": 10,
+    "featureName": "Support Developers",
+    "icon": "https://i.ibb.co.com/GfG9vf6H/support-Icon1.png",
+    "description": "Contribute directly to indie creators and help fund their future projects."
+  },
+  {
+    "id": 11,
+    "featureName": "Dark & Light Mode",
+    "icon": "https://i.ibb.co.com/MxctxKfx/sunmoon-Icon.png",
+    "description": "Customize your experience with sleek light and dark themes that match your mood."
+  }
+]
