@@ -13,6 +13,9 @@ import ErrorPage from "../Pages/ErrorPage/ErrorPage";
 import ForgetPassword from "../Pages/ForgetPassword/ForgetPassword";
 import Feature from "../Pages/Feature/Feature";
 import Loading from "../Pages/Loading/Loading";
+import About from "../Pages/About/About";
+import Contact from "../Pages/Contact";
+import Support from "../Pages/Support/Support";
 
 
 const router = createBrowserRouter([
@@ -34,6 +37,18 @@ const router = createBrowserRouter([
             </PrivateRoute>,
              loader: () => fetch("/game.json"),
             hydrateFallbackElement: <Loading></Loading>
+        },
+        {
+            path: "/about",
+            element: <About></About>
+        },
+        {
+            path: "/contact",
+            element: <Contact></Contact>
+        },
+        {
+            path: "/support",
+            element: <Support></Support>
         },
         {
             path: "/feature",
