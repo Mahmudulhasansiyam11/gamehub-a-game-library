@@ -121,10 +121,6 @@ const Footer = () => {
                 All Games
               </Link>
 
-              {/* <Link to="/feature" className="text-sm hover:text-gray-400 transition">
-                Features
-              </Link> */}
-
               <Link to="/about" className="text-sm hover:text-gray-400 transition">
                 About Us
               </Link>
