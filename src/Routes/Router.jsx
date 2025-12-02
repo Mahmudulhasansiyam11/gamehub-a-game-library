@@ -32,9 +32,7 @@ const router = createBrowserRouter([
         },
         {
             path: "/allGames",
-            element: <PrivateRoute>
-                <AllGames></AllGames>
-            </PrivateRoute>,
+            element: <AllGames></AllGames>,
              loader: () => fetch("/game.json"),
             hydrateFallbackElement: <Loading></Loading>
         },
