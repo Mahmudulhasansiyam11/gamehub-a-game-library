@@ -51,8 +51,6 @@ The primary goal of **GameHub** is to provide a user-friendly platform where gam
 
 ### Deployment
 
-The PlateShare platform is deployed and live on **vercel** for the server-side. The website is hosted and can be accessed at
-
 The GameHub application is hosted entirely on **Firebase** Hosting, making it accessible online.
 
 [Live Site URL](https://gamehub---a-game-library.web.app/).
